@@ -1,7 +1,7 @@
 # README Generator
 
 ## Description
-The README Generator is a command-line application that dynamically generates a professional README.md file based on user input. It prompts the user for information about their application repository and generates a high-quality README.md file with sections including Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions.
+The README Generator is a command-line application that dynamically generates a professional README.md file based on user input. It prompts the user for information about their application repository and generates a high-quality README.md file with sections including Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions. Video demonstration can be found here [README Generator Demo](https://app.screencastify.com/v3/watch/WL46DzDLXuk3oOPqDUOQ).
 
 ## Table of Contents
 - [Installation](#installation)
